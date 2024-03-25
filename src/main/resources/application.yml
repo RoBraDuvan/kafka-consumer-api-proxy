@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: kakfa
+server:
+  port: 8080
