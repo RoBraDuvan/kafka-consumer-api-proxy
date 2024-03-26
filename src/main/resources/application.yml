@@ -3,3 +3,8 @@ spring:
     name: kakfa
 server:
   port: 8080
+  
+kafka:
+  server:
+     ip: 34.121.153.122:9092
+     topic: topic-test
